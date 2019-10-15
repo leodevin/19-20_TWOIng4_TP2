@@ -1,17 +1,8 @@
-# TP 2
-
-A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
-
-<p align="center">
- <a href="https://github.com/clementAC/Instructions-Technologies-Web-OCRES-Ing4/blob/master/README.md">Règles pour le semestre</a>
-</p>
-
-## Instructions
-
+## **TP Responsive Web Design**
 
 ![](img/exemple.gif)
 
-1. Ajouter [bootstrap](https://getbootstrap.com) à votre projet
+1. Ajouter [bootstrap](https://getbootstrap.com/docs/4.2/getting-started/download/) à votre projet
 
 2. Centrer les éléments sur la page grace à un container Bootstrap
 
@@ -20,7 +11,7 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
    - Menu
    - Partie principale
 
-4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher successivement les albums par 6 sur grand écran, 4 pour les tablettes et 2 en dessous. Vous trouverez des images dans le répertoire design qui montrent ce qui est attendu pour chacun des appareils.
+4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher successivement les albums par 6 sur grand écran, 4 pour les tablettes et 2 en dessous
 
 5. Utiliser Bootstrap pour :
 
@@ -47,4 +38,6 @@ Cela permet d'eviter que l'utilisateur zoom dans votre page web pour naviguer
    - Masquer les icônes twitter et facebook sur mobile
    - Ajuster la taille du texte aux 3 points de ruptures suivants : 1400px (grossir) / 600px (plus petit) / 450px (encore plus petit)
 
-9. Redimensionner la fenêtre du navigateur ou émuler la taille du device à travers la console dévelopeur. Tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécessaires avec les media queries.
+9. Redimensionner la fenêtre du navigateur ou émuler la taille du device à travers la console dévelopeur. Tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécessaires avec les media queries
+
+10- la suite du tp se trouve [ici](https://github.com/clementAC/Tp5-Responsive-web-design-react)
